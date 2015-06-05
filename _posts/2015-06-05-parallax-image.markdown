@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Parallax image effect with zoom"
-subtitle:   "Problems look mighty small from 150 miles up"
+title:      "Parallax image"
+subtitle:   "Parallax image effect with zoom"
 date:       2015-06-05 12:31:00
 author:     "Nicklas Ridewing"
 header-img: "img/post-images/parallax-header.png"
